@@ -1,3 +1,6 @@
 [submodule "external/robosuite"]
 	path = external/robosuite
 	url = https://github.com/ARISE-Initiative/robosuite.git
+[submodule "external/mujoco_menagerie"]
+	path = external/mujoco_menagerie
+	url = https://github.com/google-deepmind/mujoco_menagerie.git
